@@ -1,0 +1,31 @@
+##Mudar as informações aqui para, e depois mudar no arquivo de feature tambem
+
+# Rickon:
+#   email: "blackWolf4@gmail.com"
+#   Nome:         'Rickon'
+#   Sobrenome:    'Stark'
+#   Genero:       'Feminino'
+
+#   password:     'ferro'
+#   Endereço:     'Castelo Stark'
+#   Cidade:       'New York'
+#   Estado:       'New Jersey'
+#   PostalCode:   '00000'
+#   MobilePhone:  '0000'
+#   Alias:        'ShaggyDog'
+
+Jon Snow:
+  email: "whiteWolf@gmail.com"
+  Nome:         'Jon'
+  Sobrenome:    'Snow'
+  Genero:       'Masculino'
+
+  password:     'ferro'
+  Endereço:     'Castelo Negro'
+  Cidade:       'New York'
+  Estado:       'New Jersey'
+  PostalCode:   '00000'
+  MobilePhone:  '0000'
+  Alias:        'Lone White Wolf'
+
+
